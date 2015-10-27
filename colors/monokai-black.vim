@@ -9,7 +9,7 @@ if exists("syntax_on")
 endif
 
 set t_Co=256
-let g:colors_name = "monokai"
+let g:colors_name = "monokai-black"
 
 hi Cursor ctermfg=NONE ctermbg=NONE cterm=inverse guifg=NONE guibg=NONE gui=inverse
 hi Visual ctermfg=NONE ctermbg=24 cterm=NONE guifg=NONE guibg=#005f87 gui=NONE
